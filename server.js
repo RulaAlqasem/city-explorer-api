@@ -3,7 +3,7 @@ const weatherData=require('./data/weather.json');
 const app = express();
 const cors = require('cors');
 require('dotenv').config()
-const port=process.env.HOST || 8080;
+const PORT=process.env.PORT;
 app.use(cors());
 app.get('/', function (req, res) {
   const arrData= weatherData.data.map(element=>new Weather(element))
@@ -17,4 +17,4 @@ class Weather {
   }
 }
 
-app.listen(port);
+app.listen(PORT);
