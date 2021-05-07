@@ -56,3 +56,16 @@ Start time: _2 pm___
 Finish time: __11 pm___
 
 Actual time needed to complete: __7h___
+
+
+
+
+Name of feature: ___________Refactoring into Modules____________________
+
+Estimate of time needed to complete: __1h___
+
+Start time: __12am___
+
+Finish time: __1 am___
+
+Actual time needed to complete: _1 h____
