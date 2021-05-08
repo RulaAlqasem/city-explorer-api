@@ -33,6 +33,18 @@ Start time: 7 PM
 Finish time: 10 PM
 Actual time needed to complete: 3 hours
 
+
+
+Name of feature: ____________cach hit, miss____________________
+
+Estimate of time needed to complete: ___4h__
+
+Start time: __2:30 pm___
+
+Finish time: __6:30 pm___
+
+Actual time needed to complete: ___3 h__
+
  ![Alt Text](ddd.PNG)
 
  Name of feature: _____________api___________________
